@@ -1,4 +1,4 @@
-# Schems
+# SchemingOnErekir
 Schematics for Mindustry's planet Erekir.
 
 All schemes pulled from YouTube video [Mindustry Erekir - A list of schematics that I created to capture Erekir](https://youtu.be/PUTX0JY9omQ) by MindustryJP.
